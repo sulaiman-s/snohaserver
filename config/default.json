@@ -1,0 +1,10 @@
+{
+    "from":"sulaimanfarooqi526@gmail.com",
+    "mail":{
+        "service": "gmail",
+        "auth": {
+          "user": "sulaimanfarooqi526@gmail.com",
+          "pass": "vhpnqgkipsmpipju"
+        }
+      }
+}
